@@ -16,7 +16,7 @@ For the visualization part, I have created dashboard which includes charts showi
 #### Data Cleaning
 For data cleaning process, Following are the steps I followed:
 
-* First, I checked for duplicates. 
+* Checked for duplicates. 
 
 * Checked for null values.
   
