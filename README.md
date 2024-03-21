@@ -7,4 +7,4 @@ Technologies Used:
 
 HR Analytics Dashboard
 
-(https://github.com/smita-deshmane/HR-Analytics-Dashboard/blob/main/HR%20analytics%20Dashboard.JPG)
+![HR Analytics Dashboard](https://github.com/smita-deshmane/HR-Analytics-Dashboard/blob/main/HR%20analytics%20Dashboard.JPG)
