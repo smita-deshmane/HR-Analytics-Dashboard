@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard Using Excel
+# HR-Analytics
 This HR analytics project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions.
 For the visualization part, I have created dashboard which includes charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
 
