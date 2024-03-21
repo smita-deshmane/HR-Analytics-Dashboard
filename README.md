@@ -2,8 +2,28 @@
 This HR analytics project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention.
 For the visualization part, I have created dashboard which includes charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
 
-#### Technologies Used:  
-* Advance Excel 
+#### Technologies Used
+* Advance Excel
+
+#### Business Task
+* To analyse and visualize the HR data to give overall idea about employee attrition
+  
+#### Data Cleaning
+Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+
+Remove Duplicates.
+
+Change the formatting of necessary columns.
+
+Spell Check.
+
+Change Case - Lower/Upper/Proper.
+
+Trim the unwanted spaces.
+
+Remove null values if its not going to affect the result.
+
+Find & Replace.
 
 Following is the interactive dashboard I created using Excel.
 
