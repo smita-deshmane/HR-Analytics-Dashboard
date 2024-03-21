@@ -1,5 +1,5 @@
 # HR-Analytics-Dashboard Using Excel
-This HR analytics project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention.
+This HR analytics project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions.
 For the visualization part, I have created dashboard which includes charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
 
 #### Technologies Used
@@ -11,7 +11,7 @@ For the visualization part, I have created dashboard which includes charts showi
 #### Data Preparation
 * For the analysis, I downloaded the dummy dataset from public website.
 * The data contains 40 columns, some of the columns which I used for my analysis are attrition, education feild, job role, marital status, employee number, age group, job satisfaction etc.
-* The data in the attition column contained values as 'yes' and 'no'. For counting the employee attrition, I created custom column to store the interger '1' for 'yes' and '0' for 'no'by using IF statement. 
+* The data in the attrition column contained values as 'yes' and 'no'. For counting the employee attrition, I created custom column to store the interger '1' for 'yes' and '0' for 'no'by using IF statement. 
     
 #### Data Cleaning
 For data cleaning process, Following are the steps I followed:
