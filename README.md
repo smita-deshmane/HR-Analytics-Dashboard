@@ -7,43 +7,44 @@ For the visualization part, I have created dashboard which includes charts showi
 
 #### Business Task
 * To analyse and visualize the HR data to give overall idea about employee attrition
-  
+
+#### Data Preparation
+* For the analysis, I downloaded the dummy dataset from public website.
+* The data contains 40 columns, some of the columns which I used for my analysis are attrition, education feild, job role, marital status, employee number, age group, job satisfaction etc.
+* The data in the attition column contained values as 'yes' and 'no'. For counting the employee attrition, I created custom column to store the interger '1' for 'yes' and '0' for 'no'by using IF statement. 
+    
 #### Data Cleaning
-Open Dataset in Excel and Make a Copy of Dataset for security purpose.
+For data cleaning process, Following are the steps I followed:
 
-Remove Duplicates.
+* First, I checked for duplicates. 
 
-Change the formatting of necessary columns.
-
-Spell Check.
-
-Change Case - Lower/Upper/Proper.
-
-Trim the unwanted spaces.
-
-Remove null values if its not going to affect the result.
-
-Find & Replace.
+* Checked for null values.
+  
+* Trimmed all the blank spaces from the text columns
+  
+* Checked spelling and uper/lower case of the text words in column.
+  
+* Checked for the consistency of data in the columns.
 
 Following is the interactive dashboard I created using Excel.
 
 ![HR Analytics Dashboard](https://github.com/smita-deshmane/HR-Analytics-Dashboard/blob/main/HR%20analytics%20Dashboard.JPG)
 
-#### Key Insights:-
+#### Key Insights
 
-1)Total attrition rate is 16.12%
+* Total attrition rate is 16.12%
 
-2)The attrition rate is higher between the age group of 25-34.
+* The attrition rate is higher between the age group of 25-34.
 
-3)60% of the employees are male and 40% of the employees are female.
+* 60% of the employees are male and 40% of the employees are female.
 
-3)R&D department has higher attrition count.
+* R&D department has higher attrition count.
 
-4)Total of 1233 active employees are there in the company.
+* Total of 1233 active employees are there in the company.
 
-5)The rate of attrition is higher for those employees who have bachelor's degree.
+* The rate of attrition is higher for those employees who have bachelor's degree.
 
-6)Average age of employees working in the company are 37.
+* Average age of employees working in the company are 37.
 
 
 
