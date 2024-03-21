@@ -22,7 +22,7 @@ For data cleaning process, Following are the steps I followed:
   
 * Trimmed all the blank spaces from the text columns
   
-* Checked spelling and uper/lower case of the text words in column.
+* Checked spelling and uper/lower case of the text in column.
   
 * Checked for the consistency of data in the columns.
 
