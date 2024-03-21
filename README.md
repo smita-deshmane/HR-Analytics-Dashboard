@@ -34,13 +34,13 @@ Following is the interactive dashboard I created using Excel.
 
 * Total attrition rate is 16.12%
 
+* Total of 1233 active employees are there in the company.
+
 * The attrition rate is higher between the age group of 25-34.
 
-* 60% of the employees are male and 40% of the employees are female.
+* Attrition count is higher for those employees who are single.
 
 * R&D department has higher attrition count.
-
-* Total of 1233 active employees are there in the company.
 
 * The rate of attrition is higher for those employees who have bachelor's degree.
 
